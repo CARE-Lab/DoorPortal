@@ -91,6 +91,6 @@ https://qiita.com/RyoyaHase/items/015bbb8671833ef8e740 を参考にトラッカ�
   - Steamの再ログインをしてみる（そもそもログインされていないパターン）
     -以下の画像のSteamVR Input から 開いたウィンドウの右下Open Binding UI
  ![image](https://user-images.githubusercontent.com/95071487/223764438-d2abb24c-8148-4748-83df-644f2d3e5d4e.png)
-    -以下の画像が正しい状態
+    - 以下の画像が正しい状態
 ![true](https://user-images.githubusercontent.com/95071487/223773750-bfa38735-873a-4498-912b-91343449bc3f.png)
-    -他の状態（Steamにログインしていませんとか，バインディングが設定されていない）は上手く動作しない．
+    - 他の状態（Steamにログインしていませんとか，バインディングが設定されていない）は上手く動作しない．
