@@ -8,7 +8,7 @@
 - Unity 2021.3.6.f1
 - SteamVR 1.24.6
 
-# 簡易版動作方法
+# 簡単な動作方法
 
 care-fsの/archive/2022/Takara_Fujisawa/program_and_dataにUnityのプロジェクトを置いてます．
 
