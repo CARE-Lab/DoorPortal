@@ -4,6 +4,9 @@
 どこで◯ドアシステムの動かし方です．
 
 # 動作環境
+- CPU Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+- GPU RTX2080Ti
+
 - Varjo Base 3.7.1.11
 - Unity 2021.3.6.f1
 - SteamVR 1.24.6
