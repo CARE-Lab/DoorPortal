@@ -9,6 +9,9 @@
 - SteamVR 1.24.6
 
 # 簡易版動作方法
+
+care-fsの/archive/2022/Takara_Fujisawa/program_and_dataにUnityのプロジェクトを置いてます．
+
 1. VIVE Tracker（ドアの左上に取り付ける） と VarjoBase起動（これでXR-3，SteamVRは自動で起動する）
 1. Unityのプロジェクトを立ち上げて Assets/!Scenes/Demo を再生．（XR-3のカメラでドアのARマーカを捉えるように気をつける．）
 
